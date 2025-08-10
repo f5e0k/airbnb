@@ -1,0 +1,24 @@
+{
+  "name": "airbnb",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000i\u0000r\u0000b\u0000n\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f5e0k/airbnb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {"nodemon": "3.1.10"},
+  "bugs": {
+    "url": "https://github.com/f5e0k/airbnb/issues"
+  },
+  "homepage": "https://github.com/f5e0k/airbnb#readme",
+  "dependencies": {"body-parser": "2.2.0","express": "5.1.0"}
+}
